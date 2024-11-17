@@ -1,7 +1,7 @@
 
 const arrayPlays = ["Rock", "Paper", "Scissors"];
 
-const 
+const scoreP
 
 function getRandomComputerPlay ()
 {
