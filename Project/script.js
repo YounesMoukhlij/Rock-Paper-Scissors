@@ -4,5 +4,5 @@ const arrayPlays = ["Rock", "Paper", "Scissors"];
 
 function getRandomComputerPlay ()
 {
-	return (MATH.)
+	return (MATH.floor(Math.))
 }
