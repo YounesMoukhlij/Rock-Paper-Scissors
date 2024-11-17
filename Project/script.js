@@ -12,5 +12,5 @@ function getRandomComputerPlay ()
 
 function isPlayerWon(computer, player)
 {
-	return ()
+	return (player)
 }
