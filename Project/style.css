@@ -1,6 +1,5 @@
 *
 {
-	/* color: white; */
 	text-align: center;
 	box-sizing: border-box;
 
@@ -8,7 +7,7 @@
 
 body
 {
-	color: ;
+	color: white;
 	background-color: rgb(39, 34, 65);
 }
 
