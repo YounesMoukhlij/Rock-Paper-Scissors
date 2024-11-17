@@ -31,7 +31,8 @@ body
 }
 
 
-.score-container {
+.score_container
+{
 	display: flex;
 	justify-content: space-around;
 	margin: 30px 0;
