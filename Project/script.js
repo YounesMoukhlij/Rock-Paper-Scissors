@@ -14,5 +14,5 @@ function isPlayerWon(computer, player)
 {
 	return (player == "Rock" && computer == "Scissors" ||
 			player == "Scissors" && computer == "Paper" ||
-			player == "Paper" && computer == "")
+			player == "Paper" && computer == "Rock");
 } 
