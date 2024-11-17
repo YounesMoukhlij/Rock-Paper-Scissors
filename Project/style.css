@@ -47,10 +47,10 @@ body
   }
 
 
-@media (min-width: px)
+@media (min-width: 10px)
 {
 	.details {
-	  width: 60%;
+	  width: 10%;
 	}
   }
   
