@@ -10,7 +10,7 @@ function getRandomComputerPlay ()
 	return (MATH.floor(Math.floor() * arrayPlays.length));
 }
 
-function isPlayerWon()
+function isPlayerWon(c)
 {
 	return ()
 }
