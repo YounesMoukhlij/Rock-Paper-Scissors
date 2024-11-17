@@ -35,6 +35,6 @@ body
 {
 	display: flex;
 	justify-content: space-around;
-	
+	margin: 30px ;
 	font-size: 1.2rem;
   }
