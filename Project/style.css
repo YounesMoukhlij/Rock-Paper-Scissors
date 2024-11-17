@@ -20,7 +20,7 @@ body
 {
 	color: black;
 	cursor: pointer;
-	background-image: linear-gradient(yellow, yellow);
+	background-image: linear-gradient(rgb(255, 200, 0), yellow);
 	border-radius: 5px;
 }
 
