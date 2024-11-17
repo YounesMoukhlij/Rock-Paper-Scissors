@@ -2,8 +2,8 @@
 const arrayPlays = ["Rock", "Paper", "Scissors"];
 
 const	scorePc = document.getElementById("score-c");
-const scorePlayer = document.getElementById("score-p");
-const	
+const	scorePlayer = document.getElementById("score-p");
+const	result
 
 function getRandomComputerPlay ()
 {
