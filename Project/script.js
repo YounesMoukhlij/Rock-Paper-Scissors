@@ -9,3 +9,5 @@ function getRandomComputerPlay ()
 {
 	return (MATH.floor(Math.floor() * arrayPlays.length));
 }
+
+
