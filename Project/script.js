@@ -17,7 +17,7 @@ function isPlayerWon(computer, player)
 			player == "Paper" && computer == "Rock");
 } 
 
-function getResults()
+function getResults(playerch)
 {
-	
+
 }
