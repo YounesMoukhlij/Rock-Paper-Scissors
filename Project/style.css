@@ -26,5 +26,5 @@ body
 
 .details
 {
-	border: 10px solidyellow;
+	border: 10px solid var(--yellow);
 }
