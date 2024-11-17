@@ -22,8 +22,8 @@ body
 	cursor: pointer;
 	background-image: linear-gradient(rgb(255, 200, 0), rgb(255, 191, 0));
 	border-radius: 5px;
-	width: 70px;
-	height: px;
+	width: 60px;
+	height: 40px;
 }
 
 .details
