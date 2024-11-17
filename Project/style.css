@@ -47,7 +47,7 @@ body
   }
 
 
-@media (min-width: 100px)
+@media (min-width: px)
 {
 	.details {
 	  width: 60%;
