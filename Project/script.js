@@ -16,5 +16,5 @@ function isPlayerWon(computer, player)
 			player == "Scissors" && computer == "Paper" ||
 			player == )
 
-			player.com
+			player.arr
 } 
