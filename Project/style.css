@@ -29,6 +29,7 @@ body
 .button-container
 {
 	justify-content: space-between;
+	padding: 10px;
 }
 
 .details
