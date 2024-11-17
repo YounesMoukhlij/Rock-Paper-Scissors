@@ -16,3 +16,5 @@ function isPlayerWon(computer, player)
 			player == "Scissors" && computer == "Paper" ||
 			player == "Paper" && computer == "Rock");
 } 
+
+function getRe
