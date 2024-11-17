@@ -13,5 +13,6 @@ function getRandomComputerPlay ()
 function isPlayerWon(computer, player)
 {
 	return (player == "Rock" && computer == "Paper" ||
-			player == "Scissors" && computer == "Paper")
+			player == "Scissors" && computer == "Paper" ||
+			player == )
 } 
