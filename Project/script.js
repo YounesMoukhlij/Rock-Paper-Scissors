@@ -1,5 +1,5 @@
 
-const arrayPlays = ["Rock", "P"]
+const arrayPlays = ["Rock", "Paper", "Scissors"]
 
 
 function 
