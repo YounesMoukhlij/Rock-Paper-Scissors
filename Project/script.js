@@ -1,5 +1,5 @@
 
-const arrayPlays = ["Rock", "Paper", "Scissors"]
+const arrayPlays = ["Rock", "Paper", "Scissors"];
 
 
-function 
+function getRandomCom
