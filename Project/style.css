@@ -35,7 +35,7 @@ body
 
 .details
 {
-	cu
+	cursor: pointer;
 	border: 5px solid rgb(255, 179, 36);
 	border-radius: 5px;
 	padding: 12px 16px 10px;
