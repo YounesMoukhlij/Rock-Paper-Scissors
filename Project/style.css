@@ -21,7 +21,7 @@ body
 {
 	color: black;
 	cursor: pointer;
-	background-image: linear-gradient(rgb(248, 225, 141), rgb(201, 151, 0));
+	background-image: linear-gradient(rgb(248, 225, 141), rgb(151, 102, 4));
 	border-radius: 5px;
 	width: 90px;
 	height: 40px;
