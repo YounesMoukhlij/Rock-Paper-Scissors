@@ -23,7 +23,7 @@ body
 	background-image: linear-gradient(rgb(255, 200, 0), rgb(255, 191, 0));
 	border-radius: 5px;
 	width: 50px;
-	width: 50px;
+	heigth: 1px;
 }
 
 .details
