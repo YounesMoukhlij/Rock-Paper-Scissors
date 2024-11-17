@@ -47,7 +47,7 @@ body
   }
 
 
-  @media (min-width: 760px) {
+@media (min-width: 760px) {
 	.rules-container {
 	  width: 60%;
 	}
