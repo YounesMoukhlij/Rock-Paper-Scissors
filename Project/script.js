@@ -1,5 +1,5 @@
 
-const array
+const arrayPlays = 
 
 
 function 
