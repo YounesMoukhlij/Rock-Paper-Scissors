@@ -58,6 +58,8 @@ function showResults(userOption)
 }
 
 
+
+
 // rockBtn.onclick = showResults("Rock");
 // paperBtn.onclick = showResults("Paper");
 // scissorsBtn.onclick = showResults("Scissors");
