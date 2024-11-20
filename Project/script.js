@@ -37,3 +37,4 @@ function getResults(playerchoice)
 		return `Computer wins ! ${computerResult} beats ${playerchoice}`; 
 	}
 }
+
