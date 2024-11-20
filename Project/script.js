@@ -39,3 +39,4 @@ function getResults(playerchoice)
 	}
 }
 
+function 
