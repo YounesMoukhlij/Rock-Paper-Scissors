@@ -2,7 +2,7 @@
 const arrayPlays = ["Rock", "Paper", "Scissors"];
 
 let playerscore = 0;
-let player
+let A
 
 const	scorePc = document.getElementById("score-c");
 const	scorePlayer = document.getElementById("score-p");
