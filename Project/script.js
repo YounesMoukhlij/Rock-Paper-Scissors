@@ -41,5 +41,5 @@ function getResults(playerchoice)
 
 function showResults()
 {
-	
+	if (isPlayerWon())
 }
