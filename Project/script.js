@@ -47,4 +47,4 @@ function showResults(userOption)
 
 }
 
-const	
+const	R
