@@ -22,5 +22,7 @@ function getResults(playerchoice)
 	let computerResult = getRandomComputerPlay();
 
 	if (isPlayerWon(computerResult, playerchoice))
-	
+	{
+		
+	}
 }
