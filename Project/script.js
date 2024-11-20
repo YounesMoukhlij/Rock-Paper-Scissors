@@ -39,7 +39,7 @@ function getResults(playerchoice)
 	}
 }
 
-function showResults()
+function showResults(userOption)
 {
 	let Pc = getRandomComputerPlay();
 	let	Pl = 
