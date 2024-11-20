@@ -65,9 +65,9 @@ rockBtn.onclick = function()
 }
 paperBtn.onclick = function()
 {
-	showResults("Rock");
+	showResults("Paper");
 }
-rockBtn.onclick = function()
+scissorsBtn.onclick = function()
 {
 	showResults("Rock");
 }
