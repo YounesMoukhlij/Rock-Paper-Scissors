@@ -58,7 +58,7 @@ function showResults(userOption)
 }
 
 
-rockBtn.addEventListener("click", function name(params) {
+rockBtn.addEventListener("click", function () {
 	
 })
 
