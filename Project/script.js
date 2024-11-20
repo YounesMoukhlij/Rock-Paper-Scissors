@@ -47,4 +47,4 @@ function showResults(userOption)
 
 }
 
-const	rockBtn = 
+const	rockBtn = document.get
