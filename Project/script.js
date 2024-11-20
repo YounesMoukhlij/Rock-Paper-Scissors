@@ -64,6 +64,6 @@ rockBtn.addEventListener("click", function ()
 	showResults("Rock");
 })
 
-rockBtn.onclick = showResults("Rock");
+rockBtn.onclick = function() showResults("Rock");
 // paperBtn.onclick = showResults("Paper");
 // scissorsBtn.onclick = showResults("Scissors");
