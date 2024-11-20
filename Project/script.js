@@ -60,7 +60,7 @@ function showResults(userOption)
 
 rockBtn.addEventListener("click", function ()
 {
-	showResults("")
+	showResults("Rock");
 })
 
 // rockBtn.onclick = showResults("Rock");
