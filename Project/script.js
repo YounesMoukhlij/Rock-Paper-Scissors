@@ -50,6 +50,6 @@ function showResults(userOption)
 {
 	let Pc = getRandomComputerPlay();
 
-	scorePc.innerText 
+	scorePc.innerText = Pla
 
 }
