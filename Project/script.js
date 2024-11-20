@@ -4,11 +4,14 @@ const arrayPlays = ["Rock", "Paper", "Scissors"];
 let scoreP = 0;
 let scoreAi = 0;
 
+const	scissorsBtn = document.getElementById("Scissors");
 const	rockBtn = document.getElementById("Rock");
 const	paperBtn = document.getElementById("Paper");
+
+
 const	result = document.getElementById("result");
 const	winner = document.getElementById("whoWins");
-const	scissorsBtn = document.getElementById("Scissors");
+
 const	scorePc = document.getElementById("score-c");
 const	scorePlayer = document.getElementById("score-p");
 
