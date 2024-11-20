@@ -21,5 +21,5 @@ function getResults(playerchoice)
 {
 	let computerResult = getRandomComputerPlay();
 
-	isPlayerWon(computerResult, playerchoice) 
+	isPlayerWon(computerResult, playerchoice)
 }
