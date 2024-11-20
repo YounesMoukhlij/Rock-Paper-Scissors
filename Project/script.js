@@ -56,4 +56,4 @@ function showResults(userOption)
 }
 
 
-rockBtn.onclick() = showResults()
+rockBtn.onclick() = showResults("Rock");
