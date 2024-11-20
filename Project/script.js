@@ -58,7 +58,7 @@ function showResults(userOption)
 }
 
 
-
+rockBtn.add
 
 // rockBtn.onclick = showResults("Rock");
 // paperBtn.onclick = showResults("Paper");
