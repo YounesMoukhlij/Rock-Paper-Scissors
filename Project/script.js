@@ -1,6 +1,8 @@
 
 const arrayPlays = ["Rock", "Paper", "Scissors"];
 
+let 
+
 const	scorePc = document.getElementById("score-c");
 const	scorePlayer = document.getElementById("score-p");
 const	result = document.getElementById("result");
@@ -23,6 +25,6 @@ function getResults(playerchoice)
 
 	if (isPlayerWon(computerResult, playerchoice))
 	{
-		
+
 	}
 }
