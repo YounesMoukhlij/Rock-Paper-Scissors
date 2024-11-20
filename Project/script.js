@@ -7,7 +7,7 @@ let scoreAi = 0;
 const	scorePc = document.getElementById("score-c");
 const	scorePlayer = document.getElementById("score-p");
 const	result = document.getElementById("result");
-const
+const	winner = document.
 
 function getRandomComputerPlay ()
 {
