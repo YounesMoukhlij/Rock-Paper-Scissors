@@ -29,6 +29,8 @@ function getResults(playerchoice)
 		scoreP++;
 		return `Player wins ! ${playerchoice} beats ${computerResult}`; 
 	}
+	else if (computerResult === userOption)
+		return `It's a tie! Both chose ${userOption}`;
 	else
 	{
 		scoreAi++;
