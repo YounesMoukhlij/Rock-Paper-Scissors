@@ -49,4 +49,4 @@ function showResults(userOption)
 
 const	rockBtn = document.getElementById("Rock");
 const	paperBtn = document.getElementById("Paper");
-const	scissorsBtn = document.getElementById("Rock");
+const	scissorsBtn = document.getElementById("Scissors");
