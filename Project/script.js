@@ -32,7 +32,7 @@ function getResults(playerchoice)
 	else
 	{
 		scoreAi++;
-		return `Player wins ! ${playerchoice} beats ${computerResult}`; 
+		return `Computer wins ! ${playerchoice} beats ${computerResult}`; 
 	}
 
 }
