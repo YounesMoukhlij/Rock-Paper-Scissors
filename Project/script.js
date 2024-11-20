@@ -56,4 +56,4 @@ function showResults(userOption)
 }
 
 
-rockBtn.onc
+rockBtn.onclick() = 
