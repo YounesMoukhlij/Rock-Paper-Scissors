@@ -43,6 +43,8 @@ function showResults(userOption)
 {
 	let Pc = getRandomComputerPlay();
 
-	
+
 
 }
+
+const	
