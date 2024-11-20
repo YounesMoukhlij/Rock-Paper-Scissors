@@ -50,6 +50,7 @@ function showResults(userOption)
 {
 	let Pc = getRandomComputerPlay();
 
+	
 	result.innerText = getResults(userOption);
 	scorePc.innerText = scoreAi;
 	scorePlayer.innerText = scoreP;
