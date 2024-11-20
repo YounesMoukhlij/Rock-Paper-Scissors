@@ -51,6 +51,6 @@ function showResults(userOption)
 	let Pc = getRandomComputerPlay();
 
 	scorePc.innerText = scoreP;
-	scorePc.innerText = scoreP;
+	scorePlayer.innerText = scoreP;
 
 }
