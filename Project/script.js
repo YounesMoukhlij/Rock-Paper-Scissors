@@ -43,5 +43,5 @@ function showResults(userOption)
 {
 	let Pc = getRandomComputerPlay();
 
-	result.innerText()
+	result.innerText =
 }
