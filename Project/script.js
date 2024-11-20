@@ -54,3 +54,6 @@ function showResults(userOption)
 	scorePlayer.innerText = scoreP;
 
 }
+
+
+ro
