@@ -48,4 +48,5 @@ function showResults(userOption)
 }
 
 const	rockBtn = document.getElementById("Rock");
+const	aperBtn = document.getElementById("Rock");
 const	rockBtn = document.getElementById("Rock");
