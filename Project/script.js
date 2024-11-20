@@ -47,4 +47,5 @@ function showResults(userOption)
 
 }
 
-const	rockBtn = document.get
+const	rockBtn = document.getElementById("Rock");
+const	rockBtn = document.getElementById("Rock");
