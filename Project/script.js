@@ -19,5 +19,5 @@ function isPlayerWon(computer, player)
 
 function getResults(playerchoice)
 {
-	
+	let compuet
 }
