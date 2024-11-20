@@ -58,7 +58,9 @@ function showResults(userOption)
 }
 
 
-rockBtn.addEventListener("c")
+rockBtn.addEventListener("click", function name(params) {
+	
+})
 
 // rockBtn.onclick = showResults("Rock");
 // paperBtn.onclick = showResults("Paper");
