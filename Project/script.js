@@ -12,6 +12,7 @@ const	paperBtn = document.getElementById("Paper");
 const	result = document.getElementById("result");
 const	winner = document.getElementById("whoWins");
 
+
 const	scorePc = document.getElementById("score-c");
 const	scorePlayer = document.getElementById("score-p");
 
@@ -48,7 +49,6 @@ function getResults(playerchoice)
 function showResults(userOption)
 {
 	let Pc = getRandomComputerPlay();
-
-
+	
 
 }
