@@ -1,8 +1,8 @@
 
 const arrayPlays = ["Rock", "Paper", "Scissors"];
 
-let scorePlaye = 0;
-let AIscore
+let scorePlayer = 0;
+let Ai = 0
 
 const	scorePc = document.getElementById("score-c");
 const	scorePlayer = document.getElementById("score-p");
