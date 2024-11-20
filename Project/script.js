@@ -43,5 +43,6 @@ function showResults(userOption)
 {
 	let Pc = getRandomComputerPlay();
 
-	if (isPlayerWon(Pc,))
+	if (isPlayerWon(Pc, userOption))
+		
 }
