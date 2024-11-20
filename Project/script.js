@@ -8,6 +8,9 @@ const	result = document.getElementById("result");
 const	winner = document.getElementById("whoWins");
 const	scorePc = document.getElementById("score-c");
 const	scorePlayer = document.getElementById("score-p");
+const	rockBtn = document.getElementById("Rock");
+const	paperBtn = document.getElementById("Paper");
+const	scissorsBtn = document.getElementById("Scissors");
 
 function getRandomComputerPlay ()
 {
@@ -46,7 +49,3 @@ function showResults(userOption)
 
 
 }
-
-const	rockBtn = document.getElementById("Rock");
-const	paperBtn = document.getElementById("Paper");
-const	scissorsBtn = document.getElementById("Scissors");
