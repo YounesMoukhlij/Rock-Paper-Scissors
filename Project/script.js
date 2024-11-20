@@ -36,5 +36,4 @@ function getResults(playerchoice)
 		scoreAi++;
 		return `Computer wins ! ${computerResult} beats ${playerchoice}`; 
 	}
-
 }
