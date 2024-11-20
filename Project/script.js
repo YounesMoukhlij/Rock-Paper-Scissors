@@ -42,6 +42,6 @@ function getResults(playerchoice)
 function showResults(userOption)
 {
 	let Pc = getRandomComputerPlay();
-	let	Pl = 
+
 	if (isPlayerWon())
 }
