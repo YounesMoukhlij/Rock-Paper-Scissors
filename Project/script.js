@@ -1,7 +1,7 @@
 
 const arrayPlays = ["Rock", "Paper", "Scissors"];
 
-let scorePlayer = 0;
+let scoreP = 0;
 let scoreAi = 0;
 
 const	scorePc = document.getElementById("score-c");
