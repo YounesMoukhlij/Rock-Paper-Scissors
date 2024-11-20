@@ -39,4 +39,7 @@ function getResults(playerchoice)
 	}
 }
 
-function showResults(player)
+function showResults()
+{
+	
+}
