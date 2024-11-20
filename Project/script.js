@@ -58,8 +58,9 @@ function showResults(userOption)
 }
 
 
-rockBtn.addEventListener("click", function () {
-	
+rockBtn.addEventListener("click", function ()
+{
+	show
 })
 
 // rockBtn.onclick = showResults("Rock");
