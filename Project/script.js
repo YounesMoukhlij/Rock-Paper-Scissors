@@ -71,4 +71,3 @@ scissorsBtn.onclick = function()
 {
 	showResults("Scissors");
 }
-// paperBtn.onclick = showResults("Paper");
