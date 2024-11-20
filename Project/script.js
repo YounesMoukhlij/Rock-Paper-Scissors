@@ -58,5 +58,5 @@ function showResults(userOption)
 
 
 rockBtn.onclick() = showResults("Rock");
-rockBtn.onclick() = showResults("Rock");
+paperBtn.onclick() = showResults("Paper");
 rockBtn.onclick() = showResults("Rock");
