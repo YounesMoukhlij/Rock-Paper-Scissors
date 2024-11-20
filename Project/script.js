@@ -27,6 +27,6 @@ function getResults(playerchoice)
 	if (isPlayerWon(computerResult, playerchoice))
 	{
 		scoreP++;
-		return `Player wins ! ${playerchoice} ` 
+		return `Player wins ! ${playerchoice} beats ${}` 
 	}
 }
