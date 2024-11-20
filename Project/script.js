@@ -4,10 +4,10 @@ const arrayPlays = ["Rock", "Paper", "Scissors"];
 let scoreP = 0;
 let scoreAi = 0;
 
+const	result = document.getElementById("result");
+const	winner = document.getElementById("whoWins");
 const	scorePc = document.getElementById("score-c");
 const	scorePlayer = document.getElementById("score-p");
-const	result = document.getElementById("result");
-const	winner = document.getElementById("whoWins")
 
 function getRandomComputerPlay ()
 {
