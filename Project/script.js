@@ -35,4 +35,6 @@ function getResult(userOption)
 }
 
 let result = document.getElementById("result");
-let winner = document.getElementById("whoins")
+let winner = document.getElementById("whoWins");
+
+
