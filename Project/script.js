@@ -1,6 +1,7 @@
 const Choices = ["Rock", "Paper", "Scissors"];
 
 
+let	i = 0;
 let PlayerScore = 0;
 let ComputerScore = 0;
 
