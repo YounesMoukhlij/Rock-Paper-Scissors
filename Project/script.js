@@ -1,7 +1,7 @@
 const Choices = ["Rock", "Paper", "Scissors"];
 
 
-
+let Player
 
 let scoreUser = document.getElementById("score-p");
 let scoreComputer = document.getElementById("score-c");
