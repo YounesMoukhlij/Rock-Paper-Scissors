@@ -34,4 +34,4 @@ function getResult(userOption)
 	}
 }
 
-let res
+let result = doc
