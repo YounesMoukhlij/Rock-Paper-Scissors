@@ -55,11 +55,10 @@ function Game(userOption)
 	result.innerText = results;
 	scoreUser.innerText = PlayerScore;
 	scoreComputer.innerText = ComputerScore;
-	
-	if (i == 3) {
-		
-	}
 
+	if (i == 3) {
+			
+	}
 }
 
 
