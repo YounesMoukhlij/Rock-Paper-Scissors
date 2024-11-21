@@ -58,9 +58,11 @@ function resetGame()
 
 function Game(userOption)
 {
+	let results =  getResult(userOption);
+
+	
 	scoreUser.innerText = PlayerScore;
 	scoreComputer.innerText = ComputerScore;
-	let results =  getResult(userOption);
 
 	result.innerText = results;
 
