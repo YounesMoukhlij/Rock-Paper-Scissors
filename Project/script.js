@@ -47,7 +47,7 @@ let rock_button = document.getElementById("Rock");
 let scissors_button = document.getElementById("Scissors");
 let paper_button = document.getElementById("Paper");
 
-let	optionContainer = document.getElementById()
+let	optionContainer = document.getElementById(".button-")
 
 
 function resetGame()
