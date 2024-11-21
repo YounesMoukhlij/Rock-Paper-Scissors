@@ -37,4 +37,7 @@ function getResult(userOption)
 let result = document.getElementById("result");
 let winner = document.getElementById("whoWins");
 
-function Game
+function Game(userOption)
+{
+	
+}
