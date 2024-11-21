@@ -50,7 +50,7 @@ let paper_button = document.getElementById("Paper");
 function resetGame()
 {
 	PlayerScore = 0;
-	
+	ComputerScore = 0;
 }
 
 
