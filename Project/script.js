@@ -52,7 +52,7 @@ function Game(userOption)
 	let results =  getResult(userOption);
 	result.innerText = results;
 	scoreUser.innerText = PlayerScore;
-	scoreUser.innerText = PlayerScore;
+	scoreUser.innerText = ComputerScore;
 
 }
 
