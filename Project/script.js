@@ -60,13 +60,13 @@ function Game(userOption)
 {
 	let results =  getResult(userOption);
 
-	
+
 	scoreUser.innerText = PlayerScore;
 	scoreComputer.innerText = ComputerScore;
 
 	result.innerText = results;
 
-	if (i == 3) {
+	if (PlayerScore) {
 
 
 		console.log("WA HAANA");
