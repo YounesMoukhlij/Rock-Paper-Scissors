@@ -17,4 +17,4 @@ function isPlayerWons(userOption, computerOption)
 		|| userOption == "Scissors" && computerOption == "Paper");
 }
 
-
+function getResult
