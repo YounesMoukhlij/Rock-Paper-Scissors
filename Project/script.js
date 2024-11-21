@@ -6,5 +6,5 @@ let scoreComputer = document.getElementById("score-c");
 
 function getRandomComputerChoice()
 {
-	let index = Math.floor(Math.random() * ara)
+	let index = Math.floor(Math.random() * Choices)
 }
