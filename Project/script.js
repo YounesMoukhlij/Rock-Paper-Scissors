@@ -41,7 +41,7 @@ function getResult(userOption)
 
 let result = document.getElementById("result");
 let winner = document.getElementById("whoWins");
-let reset = document.getElementById("btn-win")
+let reset = document.getElementById("btn-win");
 
 let rock_button = document.getElementById("Rock");
 let scissors_button = document.getElementById("Scissors");
@@ -55,6 +55,7 @@ function resetGame()
 	scoreUser.innerText = 0;
 	scoreComputer.innerText = 0;
 
+	winner.style.display = "block";
 	winner.style.display = "block";
 
 }
