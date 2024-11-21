@@ -64,7 +64,7 @@ rock_button.onclick = function ()
 }
 scissors_button.onclick = function ()
 {
-	Game("Rock");	
+	Game("Scissors");	
 }
 rock_button.onclick = function ()
 {
