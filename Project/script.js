@@ -51,15 +51,13 @@ function resetGame()
 {
 	PlayerScore = 0;
 	ComputerScore = 0;
-	scoreUser.innerText = 0;
-	scoreComputer.innerText = 0;
-	scoreUser.innerText = 0;
-	scoreComputer.innerText = 0;
 }
 
 
 function Game(userOption)
 {
+	scoreUser.innerText = PlayerScore;
+	scoreComputer.innerText = ComputerScore;
 	let results =  getResult(userOption);
 
 	result.innerText = results;
