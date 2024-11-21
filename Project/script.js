@@ -48,6 +48,7 @@ let paper_button = document.getElementById("Paper");
 
 
 
+
 function Game(userOption)
 {
 	let results =  getResult(userOption);
@@ -64,7 +65,7 @@ function Game(userOption)
 			winner.innerText = "That's Equal";
 		else
 			winner.innerText = "AI Gonna Eat You Someday!";
-		res
+		resetGame();
 	}
 	i++;
 }
