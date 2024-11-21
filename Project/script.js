@@ -19,5 +19,7 @@ function isPlayerWons(userOption, computerOption)
 
 function getResult(userOption)
 {
-	let computerChoice = 
+	let computerChoice = getRandomComputerChoice();
+
+	if ()
 }
