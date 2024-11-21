@@ -6,5 +6,5 @@ let scoreComputer = document.getElementById("score-c");
 
 function getRandomComputerChoice()
 {
-	Math
+	let index = Math.floor(Math.ran)
 }
