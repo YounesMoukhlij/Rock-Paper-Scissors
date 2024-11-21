@@ -44,4 +44,4 @@ function Game(userOption)
 }
 
 
-let rock_button
+let rock_button = document.get
