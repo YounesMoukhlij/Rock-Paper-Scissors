@@ -23,6 +23,6 @@ function getResult(userOption)
 
 	if (isPlayerWons(userOption, computerChoice)) {
 		scoreUser++;
-		return 
+		return ``
 	}
 }
