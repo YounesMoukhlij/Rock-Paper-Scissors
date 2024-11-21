@@ -10,7 +10,7 @@ function getRandomComputerChoice()
 	return (Choices[index]);
 }
 
-function isPlayerWons(userOption, ComputerOpti)
+function isPlayerWons(userOption, computerOption)
 {
 	return ();
 }
