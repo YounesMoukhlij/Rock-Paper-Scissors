@@ -51,10 +51,11 @@ let paper_button = document.getElementById("Paper");
 function Game(userOption)
 {
 	let results =  getResult(userOption);
-	result.innerText = results;
-	scoreUser.innerText = PlayerScore;
-	scoreComputer.innerText = ComputerScore;
+	
 	if (i == 3) {
+		result.innerText = results;
+		scoreUser.innerText = PlayerScore;
+		scoreComputer.innerText = ComputerScore;
 		
 	}
 
