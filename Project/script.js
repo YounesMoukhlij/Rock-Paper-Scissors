@@ -65,7 +65,7 @@ function Game(userOption)
 	if (i == 3) {
 
 
-		co
+		console.log("WA HAANA")
 		
 		if (PlayerScore > scoreComputer)
 			winner.innerText = "You Win!";
