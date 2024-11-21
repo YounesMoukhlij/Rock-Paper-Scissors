@@ -51,8 +51,8 @@ function resetGame()
 {
 	PlayerScore = 0;
 	ComputerScore = 0;
-	scoreUser.innerText = PlayerScore;
-	scoreComputer.innerText = ComputerScore;
+	scoreUser.innerText = 0;
+	scoreComputer.innerText = 0;
 }
 
 
