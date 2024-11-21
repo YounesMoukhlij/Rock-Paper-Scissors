@@ -64,6 +64,7 @@ function Game(userOption)
 			winner.innerText = "That's Equal";
 		else
 			winner.innerText = "AI Gonna Eat You Someday!";
+		res
 	}
 	i++;
 }
