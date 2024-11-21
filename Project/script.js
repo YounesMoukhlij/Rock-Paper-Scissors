@@ -12,5 +12,5 @@ function getRandomComputerChoice()
 
 function isPlayerWons(userOption, computerOption)
 {
-	return ();
+	return (userOption == "");
 }
