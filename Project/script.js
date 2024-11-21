@@ -10,4 +10,4 @@ function getRandomComputerChoice()
 	return (Choices[index]);
 }
 
-function isPl
+function isPlayerWons(userO)
