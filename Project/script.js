@@ -54,6 +54,7 @@ function showResults(userOption)
 	scorePc.innerText = scoreAi;
 	scorePlayer.innerText = scoreP;
 	result.innerText = getResults(userOption);
+	console
 
 }
 
