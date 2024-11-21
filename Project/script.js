@@ -19,7 +19,7 @@ const	scorePlayer = document.getElementById("score-p");
 function getRandomComputerPlay ()
 {
 	let index = Math.floor(Math.floor() * arrayPlays.length);
-	return array;
+	return arrayPlays[index];
 }
 
 function isPlayerWon(computer, player)
