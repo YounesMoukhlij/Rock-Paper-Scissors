@@ -4,4 +4,4 @@ let scoreUser = document.getElementById("score-p");
 let scoreComputer = document.getElementById("score-c");
 
 
-function getRandomC
+function getRandomComputerChoic
