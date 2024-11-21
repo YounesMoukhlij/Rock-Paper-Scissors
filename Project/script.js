@@ -30,6 +30,6 @@ function getResult(userOption)
 	else
 	{
 		scoreComputer++;
-		return `Computer wins! ${userOption} beats ${computerChoice}`;
+		return `Computer wins! ${computerChoice} beats ${userOption}`;
 	}
 }
