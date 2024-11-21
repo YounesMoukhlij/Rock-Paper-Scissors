@@ -33,3 +33,5 @@ function getResult(userOption)
 		return `Computer wins! ${computerChoice} beats ${userOption}`;
 	}
 }
+
+
