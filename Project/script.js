@@ -54,7 +54,7 @@ function resetGame()
 	scoreUser.innerText = 0;
 	scoreComputer.innerText = 0;
 
-	
+	who
 }
 
 
