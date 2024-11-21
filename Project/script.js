@@ -53,6 +53,7 @@ function Game(userOption)
 	result.innerText = results;
 	scoreUser.innerText = PlayerScore;
 	scoreComputer.innerText = ComputerScore;
+	if ()
 
 }
 
