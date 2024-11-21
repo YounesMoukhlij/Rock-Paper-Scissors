@@ -27,4 +27,8 @@ function getResult(userOption)
 	}
 	else if (userOption == computerChoice)
 		return `No Winner! They both choose ${userOption}`;
+	else
+	{
+		
+	}
 }
