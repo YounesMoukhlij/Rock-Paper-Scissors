@@ -67,13 +67,8 @@ function Game(userOption)
 	result.innerText = results;
 
 	if (PlayerScore == 3 || ComputerScore == 3) {
-
-
-		console.log("WA HAANA");
-		
-		if (PlayerScore > scoreComputer)
-
-			winner.innerText = "AI Gonna Eat You Someday!";
+			
+		winner.innerText = "AI Gonna Eat You Someday!";
 		resetGame();
 	}
 	i++;
