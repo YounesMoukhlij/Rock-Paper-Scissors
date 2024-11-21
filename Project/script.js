@@ -54,7 +54,8 @@ function resetGame()
 	scoreUser.innerText = 0;
 	scoreComputer.innerText = 0;
 
-	winner.style.display =  
+	winner.style.display = "block";
+	 
 }
 
 
