@@ -58,5 +58,8 @@ function Game(userOption)
 
 
 
-rock_button.onclick 
+rock_button.onclick = function ()
+{
+	
+}
 
