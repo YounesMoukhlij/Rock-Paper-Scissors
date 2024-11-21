@@ -25,5 +25,5 @@ function getResult(userOption)
 		scoreUser++;
 		return `Player wins! ${userOption} beats ${computerChoice}`;
 	}
-	else if ()
+	else if (userOption == computerChoice)
 }
