@@ -32,7 +32,7 @@ function getResults(playerchoice)
 {
 	let computerResult = getRandomComputerPlay();
 
-	console.log()
+	console.log(playerchoice);
 	if (isPlayerWon(computerResult, playerchoice))
 	{
 		scoreP++;
