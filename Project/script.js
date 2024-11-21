@@ -1,3 +1,3 @@
 const array = ["Rock", "Paper", "Scissors"];
 
-let scoreUser = doc
+let scoreUser = document.getElementById()
