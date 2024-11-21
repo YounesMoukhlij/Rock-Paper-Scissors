@@ -44,4 +44,4 @@ function Game(userOption)
 }
 
 
-let rock-button = 
+let rock_button
