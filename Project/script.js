@@ -39,6 +39,6 @@ let winner = document.getElementById("whoWins");
 
 function Game(userOption)
 {
-	let getResult(userOption);
+	let results getResult(userOption);
 	result.innerText = 
 }
