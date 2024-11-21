@@ -35,4 +35,4 @@ function getResult(userOption)
 }
 
 let result = document.getElementById("result");
-let b
+let winner = 
