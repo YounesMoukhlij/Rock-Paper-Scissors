@@ -29,6 +29,7 @@ function getResult(userOption)
 		return `No Winner! They both choose ${userOption}`;
 	else
 	{
-		sc
+		scoreComputer++;
+		return `Player wins! ${userOption} beats ${computerChoice}`;
 	}
 }
