@@ -38,7 +38,7 @@ function getResults(playerchoice)
 		scoreP++;
 		return `Player wins ! ${playerchoice} beats ${arrayPlays[computerResult]}`; 
 	}
-	else if (computerResult === playerchoice)
+	else if (arrayPlays[computerResult] === playerchoice)
 		return `It's a tie! Both chose ${playerchoice}`;
 	else
 	{
