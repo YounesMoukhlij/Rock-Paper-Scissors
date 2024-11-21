@@ -59,7 +59,5 @@ function Game(userOption)
 
 
 rock_button.onclick = function ()
-{
-	
-}
+
 
