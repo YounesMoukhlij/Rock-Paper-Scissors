@@ -58,7 +58,7 @@ function Game(userOption)
 
 	if (i == 3) {
 		
-		if ()
+		if (score)
 		winner.innerText = 
 	}
 	i++;
