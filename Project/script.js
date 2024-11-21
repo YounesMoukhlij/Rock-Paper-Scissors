@@ -1,1 +1,1 @@
-const array = ["Rock", "Pap"]
+const array = ["Rock", "Paper", "Scissors"]
