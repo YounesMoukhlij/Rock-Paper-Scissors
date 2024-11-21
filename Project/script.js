@@ -26,14 +26,14 @@ function getResult(userOption)
 	let computerChoice = getRandomComputerChoice();
 
 	if (isPlayerWons(userOption, computerChoice)) {
-		scoreUser++;
+		PlayerScore++;
 		return `Player wins! ${userOption} beats ${computerChoice}`;
 	}
 	else if (userOption == computerChoice)
 		return `No Winner! They both choose ${userOption}`;
 	else
 	{
-		scoreComputer++;
+		ComputerScore++;
 		return `Computer wins! ${computerChoice} beats ${userOption}`;
 	}
 }
