@@ -58,7 +58,7 @@ function Game(userOption)
 
 
 
-rock_button.onclick = function name(params) {
-	
+rock_button.onclick = function ()
+{	
 }
 
