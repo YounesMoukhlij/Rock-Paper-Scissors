@@ -22,6 +22,7 @@ function getResult(userOption)
 	let computerChoice = getRandomComputerChoice();
 
 	if (isPlayerWons(userOption, computerChoice)) {
-		score
+		scoreUser++;
+		return 
 	}
 }
