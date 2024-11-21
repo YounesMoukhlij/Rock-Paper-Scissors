@@ -12,5 +12,5 @@ function getRandomComputerChoice()
 
 function isPlayerWons(userOption, computerOption)
 {
-	return (userOption == "");
+	return (userOption == "Rock" );
 }
