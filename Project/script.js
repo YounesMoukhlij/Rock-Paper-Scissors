@@ -66,7 +66,7 @@ function Game(userOption)
 
 	result.innerText = results;
 
-	if (PlayerScore) {
+	if (PlayerScore == 3 || ComputerScore == 3) {
 
 
 		console.log("WA HAANA");
