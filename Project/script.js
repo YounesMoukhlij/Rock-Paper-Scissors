@@ -52,7 +52,7 @@ function resetGame()
 	PlayerScore = 0;
 	ComputerScore = 0;
 	scoreUser.innerText = 0;
-	scoreComputer.innerText = ComputerScore;
+	scoreComputer.innerText = 0;
 }
 
 
