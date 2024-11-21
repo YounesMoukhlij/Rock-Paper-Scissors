@@ -2,7 +2,7 @@ const Choices = ["Rock", "Paper", "Scissors"];
 
 
 let PlayerScore = 0;
-let PlayeScore = 0;
+let ComputerScore = 0;
 
 let scoreUser = document.getElementById("score-p");
 let scoreComputer = document.getElementById("score-c");
