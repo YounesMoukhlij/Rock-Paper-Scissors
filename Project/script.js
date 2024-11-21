@@ -34,4 +34,5 @@ function getResult(userOption)
 	}
 }
 
-let result = document.getElementById("result")
+let result = document.getElementById("result");
+let b
