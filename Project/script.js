@@ -63,7 +63,7 @@ function Game(userOption)
 		else if (PlayerScore == scoreComputer)
 			winner.innerText = "That's Equal";
 		else
-			winner.innerText = ""
+			winner.innerText = "Computer Wi"
 	}
 	i++;
 }
