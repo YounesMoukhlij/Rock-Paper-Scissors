@@ -47,6 +47,10 @@ let scissors_button = document.getElementById("Scissors");
 let paper_button = document.getElementById("Paper");
 
 
+function resetGame()
+{
+	
+}
 
 
 function Game(userOption)
