@@ -23,6 +23,6 @@ function getResult(userOption)
 
 	if (isPlayerWons(userOption, computerChoice)) {
 		scoreUser++;
-		return `Player wins! ${userOption} ${computerResult}`;
+		return `Player wins! ${userOption} beats ${computerResult}`;
 	}
 }
