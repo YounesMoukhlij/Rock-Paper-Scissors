@@ -66,8 +66,8 @@ scissors_button.onclick = function ()
 {
 	Game("Scissors");	
 }
-rock_button.onclick = function ()
+paper_button.onclick = function ()
 {
-	Game("Rock");	
+	Game("Paper");	
 }
 
