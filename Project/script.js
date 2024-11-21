@@ -58,8 +58,5 @@ function Game(userOption)
 
 
 
-rock_button.onclick(function ()
-{
-	Game("Rock");
-})
+rock_button.onclick(function 
 
