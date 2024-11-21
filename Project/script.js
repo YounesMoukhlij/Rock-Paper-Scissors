@@ -68,7 +68,7 @@ function Game(userOption)
 
 	if (PlayerScore == 3 || ComputerScore == 3) {
 			
-		winner.innerText = `${PlayerScore == 3 ? "Player" : "Computer"} "AI Gonna Eat You Someda;
+		winner.innerText = `${PlayerScore == 3 ? "Player" : "Computer"}`;
 		resetGame();
 	}
 	i++;
