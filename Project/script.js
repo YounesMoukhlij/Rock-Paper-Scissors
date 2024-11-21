@@ -45,5 +45,5 @@ function Game(userOption)
 
 
 let rock_button = document.getElementById("Rock");
-let rock_button = document.getElementById("Rock");
-let rock_button = document.getElementById("Rock");
+let rock_button = document.getElementById("Scissors");
+let rock_button = document.getElementById("Paper");
