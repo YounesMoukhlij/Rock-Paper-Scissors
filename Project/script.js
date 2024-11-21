@@ -34,4 +34,4 @@ function getResult(userOption)
 	}
 }
 
-let result = doc
+let result = document.getElementById("result")
