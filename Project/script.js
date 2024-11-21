@@ -10,4 +10,7 @@ function getRandomComputerChoice()
 	return (Choices[index]);
 }
 
-function isPlayerWons(userO)
+function isPlayerWons(userOption)
+{
+	
+}
