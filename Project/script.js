@@ -37,6 +37,9 @@ function getResult(userOption)
 let result = document.getElementById("result");
 let winner = document.getElementById("whoWins");
 
+let rock_button = document.getElementById("Rock");
+let scissors_button = document.getElementById("Scissors");
+let paper_button = document.getElementById("Paper");
 function Game(userOption)
 {
 	let results =  getResult(userOption);
@@ -44,6 +47,6 @@ function Game(userOption)
 }
 
 
-let rock_button = document.getElementById("Rock");
-let scissors_button = document.getElementById("Scissors");
-let paper_button = document.getElementById("Paper");
+
+
+
