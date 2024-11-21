@@ -49,7 +49,6 @@ let paper_button = document.getElementById("Paper");
 
 function Game(userOption)
 {
-	let i = 0;
 	let results =  getResult(userOption);
 	result.innerText = results;
 	scoreUser.innerText = PlayerScore;
