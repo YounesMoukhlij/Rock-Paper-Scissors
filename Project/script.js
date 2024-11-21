@@ -41,7 +41,7 @@ function getResult(userOption)
 
 let result = document.getElementById("result");
 let winner = document.getElementById("whoWins");
-let reset = doce
+let reset = document.getElementById("btn-win")
 
 let rock_button = document.getElementById("Rock");
 let scissors_button = document.getElementById("Scissors");
