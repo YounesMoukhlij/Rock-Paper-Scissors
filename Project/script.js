@@ -62,7 +62,7 @@ function showResults(userOption)
 
 rockBtn.onclick = function()
 {
-	showResults("Rock");
+	showResults("R");
 }
 paperBtn.onclick = function()
 {
