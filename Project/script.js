@@ -19,5 +19,5 @@ function isPlayerWons(userOption, computerOption)
 
 function getResult(userOption)
 {
-	let
+	let computer
 }
