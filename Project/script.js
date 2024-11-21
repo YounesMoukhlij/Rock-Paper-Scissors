@@ -58,7 +58,7 @@ function resetGame()
 	scoreComputer.innerText = 0;
 
 	// winner.style.display = "block";
-	optionContainer.style.display = "none";
+	optionContainer.style.display = 'none';
 
 }
 
