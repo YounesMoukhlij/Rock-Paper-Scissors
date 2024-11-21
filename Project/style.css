@@ -54,11 +54,10 @@ body
 {
 	/* display: none; */
 }
-/* display: none; */
 
 #btn-win
 {
-
+	display: none;
 }
 
 
