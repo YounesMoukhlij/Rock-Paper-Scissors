@@ -59,7 +59,7 @@ function Game(userOption)
 	if (i == 3) {
 		
 		if (PlayerScore > scoreComputer)
-			winner.innerText = ""
+			winner.innerText = "You Win"
 	}
 	i++;
 }
