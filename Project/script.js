@@ -51,7 +51,8 @@ function Game(userOption)
 {
 	let results =  getResult(userOption);
 	result.innerText = results;
-	scoreUser.innerText = 
+	scoreUser.innerText = PlayerScore;
+	scoreUser.innerText = PlayerScore;
 
 }
 
