@@ -76,6 +76,9 @@ function Game(userOption)
 }
 
 function resetGame()
+{
+	
+}
 
 reset.onclick = function ()
 {
