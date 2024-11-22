@@ -108,18 +108,3 @@ paper_button.onclick = function ()
 	Game("Paper");	
 }
 
-
-// function resetGame() {
-
-
-// 	playerScore = 0;
-// 	computerScore = 0;
-// 	playerScoreSpanElement.innerText = 0;
-// 	computerScoreSpanElement.innerText = 0;
-// 	winnerMsgElement.innerText = "";
-// 	roundResultsMsg.innerText = "";
-// 	resetGameBtn.style.display = "none";
-// 	optionsContainer.style.display = "block";
-	
-	
-// 	};
