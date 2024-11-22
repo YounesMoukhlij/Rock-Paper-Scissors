@@ -77,7 +77,14 @@ function Game(userOption)
 
 function resetGame()
 {
-	
+	optionContainer.style.display = "none";
+	resultContainer.style.display = "block";
+	reset.style.display = "block";
+	PlayerScore = 0;
+	ComputerScore = 0;
+	scoreUser.innerText = 0;
+	scoreComputer.innerText = 0;
+
 }
 
 reset.onclick = function ()
