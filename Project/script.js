@@ -1,7 +1,6 @@
 const Choices = ["Rock", "Paper", "Scissors"];
 
 
-let	i = 0;
 let PlayerScore = 0;
 let ComputerScore = 0;
 
@@ -47,7 +46,8 @@ let rock_button = document.getElementById("Rock");
 let scissors_button = document.getElementById("Scissors");
 let paper_button = document.getElementById("Paper");
 
-let	optionContainer = document.getElementById(".button-container");
+let	optionContainer = document.getElementById("button-container");
+let	resultContainer = document.getElementById("result-container");
 
 
 function resetGame()
@@ -57,8 +57,10 @@ function resetGame()
 	scoreUser.innerText = 0;
 	scoreComputer.innerText = 0;
 
-	// winner.style.display = "block";
-	optionContainer.style.display = "none";
+
+
+
+	
 
 }
 
@@ -73,12 +75,15 @@ function Game(userOption)
 
 	result.innerText = results;
 
-	if (PlayerScore == 3 || ComputerScore == 3) {
-			
+	if (PlayerScore == 3 || ComputerScore == 3)
+	{
 		winner.innerText = `${PlayerScore == 3 ? "Player" : "Computer" }  has won the game :) `;
+		optionContainer.style.display = "none";
+		resultContainer.style.display = "block";
+		reset.style.display = "block";
 		resetGame();
 	}
-	i++;
+
 }
 
 
