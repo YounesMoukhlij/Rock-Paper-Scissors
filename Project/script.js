@@ -77,7 +77,7 @@ function Game(userOption)
 
 function resetGame()
 {
-	optionContainer.style.display = "none";
+	optionContainer.style.display = "bl";
 	resultContainer.style.display = "block";
 	reset.style.display = "block";
 	PlayerScore = 0;
