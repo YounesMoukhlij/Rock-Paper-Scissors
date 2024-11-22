@@ -75,7 +75,10 @@ function Game(userOption)
 	
 }
 
-reset.onclick =
+reset.onclick = function ()
+{
+	
+}
 
 
 rock_button.onclick = function ()
