@@ -84,6 +84,9 @@ function resetGame()
 	ComputerScore = 0;
 	scoreUser.innerText = 0;
 	scoreComputer.innerText = 0;
+
+	winner.innerText = `${PlayerScore == 3 ? "Player" : ;
+
 }
 
 reset.onclick = function ()
