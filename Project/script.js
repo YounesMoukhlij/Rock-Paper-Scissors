@@ -52,10 +52,7 @@ let	resultContainer = document.getElementById("result-container");
 
 function resetGame()
 {
-	PlayerScore = 0;
-	ComputerScore = 0;
-	scoreUser.innerText = 0;
-	scoreComputer.innerText = 0;
+
 
 
 
@@ -81,7 +78,10 @@ function Game(userOption)
 		optionContainer.style.display = "none";
 		resultContainer.style.display = "block";
 		reset.style.display = "block";
-		resetGame();
+		PlayerScore = 0;
+		ComputerScore = 0;
+		scoreUser.innerText = 0;
+		scoreComputer.innerText = 0;
 	}
 
 }
