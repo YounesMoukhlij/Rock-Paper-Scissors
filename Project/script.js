@@ -50,17 +50,6 @@ let	optionContainer = document.getElementById("button-container");
 let	resultContainer = document.getElementById("result-container");
 
 
-function resetGame()
-{
-
-
-
-
-
-	
-
-}
-
 
 function Game(userOption)
 {
